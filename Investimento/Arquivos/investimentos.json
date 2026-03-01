@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "descricao": "investimento inicial",
+    "tipoInvestimento": "ACOES",
+    "valor": 1200.0,
+    "internacional": false
+  },
+  {
+    "id": 3,
+    "descricao": "tesouro direto",
+    "tipoInvestimento": "TESOURO_DIRETO",
+    "valor": 464.0,
+    "internacional": false
+  },
+  {
+    "id": 4,
+    "descricao": "FLLS",
+    "tipoInvestimento": "FLLS",
+    "valor": 876.2,
+    "internacional": false
+  },
+  {
+    "id": 5,
+    "descricao": "dsdsfgg",
+    "tipoInvestimento": "ETFS",
+    "valor": 1230.32,
+    "internacional": false
+  }
+]
